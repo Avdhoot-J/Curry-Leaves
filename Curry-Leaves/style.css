@@ -119,7 +119,7 @@ body{
 }
 
 #menu-title{
-	background: url('panner.jpg') no-repeat;
+	background: url('https://github.com/Curry-Leaves/Curry-Leaves/blob/gh-pages/Curry-Leaves/panner.JPG?raw=true') no-repeat;
 	background-position: center;
 }
 #specials-title{
@@ -146,7 +146,7 @@ body{
 
 @media (min-width: 1500px){
 	.container .jumbotron{
-		background: url('Curry Leaves 1.jpg');
+		background: url('https://github.com/Curry-Leaves/Curry-Leaves/blob/gh-pages/Curry-Leaves/Curry%20Leaves%201.JPG?raw=true');
 		background-repeat: no-repeat;
 		background-size: cover; 
 		height: 680px;
@@ -195,7 +195,7 @@ body{
 	}
 
 		.container .jumbotron{
-		background: url('Curry Leaves 1.jpg');
+		background: url('https://github.com/Curry-Leaves/Curry-Leaves/blob/gh-pages/Curry-Leaves/Curry%20Leaves%201.JPG?raw=true');
 		background-repeat: no-repeat;
 		background-size: cover;
 		height:558px; 
@@ -219,7 +219,7 @@ body{
 /***************Small Devices Only*****************/
 @media (min-width: 768px) and (max-width: 991px) {
 		.container .jumbotron{
-		background: url('Curry Leaves 1.jpg');
+		background: url('https://github.com/Curry-Leaves/Curry-Leaves/blob/gh-pages/Curry-Leaves/Curry%20Leaves%201.JPG?raw=true');
 		background-repeat: no-repeat;
 		height: 424px; 
 	}
