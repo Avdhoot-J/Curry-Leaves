@@ -155,9 +155,7 @@ body{
 	.container{
 		width: 1400px;
 	}
-	{
-		background-size: cover;
-	}
+
 	#testimonials{
 		padding-left: 30px;
 	}
@@ -348,6 +346,7 @@ body{
 	height: 280px;
 	margin: 0 auto 15px; 
 }
+
 }
 
 @media (max-width: 479px) {
