@@ -31,7 +31,7 @@ body{
 	line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
-	text-decoration: none;
+	text-decoration: none; 
 }
 .navbar-brand p {
 	color: #000;
