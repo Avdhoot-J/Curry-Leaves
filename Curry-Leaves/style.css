@@ -276,10 +276,8 @@ body{
 	.container .jumbotron{
 		margin-top: 30px;
 		padding: 0; 
-		background: url('Curry Leaves 1.JPG');
 		background-repeat: no-repeat;
 		background-size: cover;
-		height:326px; 
 	}
 
 	#menu-title, #specials-title, #map-title{
